@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TimK70
 - 👀 I’m interested in cloud computing, including DevOps
-- 🌱 I’m currently learning Github and Linux.
+- 🌱 I’m currently learning Python, AWS, Github and Linux.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
