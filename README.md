@@ -30,4 +30,4 @@ Thanks for stopping by! I'm a soon-to-be former teacher transitioning to the Clo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=TimK70%2FTimK70&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=TImK70%2FTimK70)
